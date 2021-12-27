@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "8458825732",
+    "mongoUrl": "mongodb+srv://IlyaSeverinchik:Jar5rn2severis@cluster0.55yee.mongodb.net/ITR-Task5?retryWrites=true&w=majority"
+}
